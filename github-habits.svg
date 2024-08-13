@@ -17,7 +17,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 32.6 characters per line of code written</li>
+                        <li>Has approximately 32.5 characters per line of code written</li>
                         <li>Mostly pushes code around 04:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -195,22 +195,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Go</span>
-                                <div class="bar" style="width: 32.54371649971904%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 32.42478324832287%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">41%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 31.439675099848927%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">39%</span>
+                                <div class="bar" style="width: 31.603612138761108%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">40%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 6.280101884595844%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.226302428219251%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 0.01816964390862688%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.018013990866239445%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
