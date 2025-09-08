@@ -195,17 +195,17 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 60.968633191642844%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">76%</span>
+                                <div class="bar" style="width: 62.53964171412349%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">78%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Python</span>
-                                <div class="bar" style="width: 8.79538662905787%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">11%</span>
+                                <div class="bar" style="width: 7.581606729931648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 4.659019982726628%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.076468775553286%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                         </div>
