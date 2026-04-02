@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - [LinkedIn](https://www.linkedin.com/in/tuongle/)
-- [Stack Overflow](https://stackoverflow.com/users/401353/tuong-le)
 - [Twitter](https://twitter.com/tuongaz)
 
 <a href="https://github.com/tuongaz">
