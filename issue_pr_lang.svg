@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="141.69948586572175" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="141.69948586572175" y="0" width="116.78504798366438" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="258.48453384938614" y="0" width="79.79483962469263" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="338.2793734740788" y="0" width="77.45945984561818" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="415.73883331969694" y="0" width="31.28894270953873" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="447.0277760292357" y="0" width="5.486483874450574" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="452.5142599036863" y="0" width="3.9016622322590786" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="456.41592213594544" y="0" width="3.584077864054664" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.25895458681757" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="136.25895458681757" y="0" width="110.52009571924391" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="246.7790503060615" y="0" width="103.38648947739841" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="350.16553978345985" y="0" width="70.6401075278312" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="420.80564731129107" y="0" width="27.699213230199913" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="448.504860541491" y="0" width="4.868226141606154" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.37308668309714" y="0" width="3.4540308736803342" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="456.82711755677747" y="0" width="3.1728824432224845" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -138,6 +138,12 @@
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -150,12 +156,6 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
