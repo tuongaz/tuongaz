@@ -123,14 +123,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="153.10773980244784" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="153.10773980244784" y="0" width="102.1525405399089" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="255.26028034235677" y="0" width="95.51343753138393" height="8" fill="#67b8de"/>
-                    <rect mask="url(#languages-bar)" x="350.7737178737407" y="0" width="65.26074665727717" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="416.0344645310179" y="0" width="25.589872389559705" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="441.6243369205776" y="0" width="10.725902404806991" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.35023932538456" y="0" width="4.287156066564195" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="456.63739539194876" y="0" width="3.362604608051285" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="168.27550896644826" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="168.27550896644826" y="0" width="103.83962313447682" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="272.1151321009251" y="0" width="70.94971674681427" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="343.06484884773937" y="0" width="68.92619069648595" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.9910395442253" y="0" width="27.82061638309388" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="439.81165592731924" y="0" width="11.793169803776998" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="451.60482573109624" y="0" width="4.739441585891848" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="456.34426731698807" y="0" width="3.655732683011952" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -138,12 +138,6 @@
                             <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -156,6 +150,12 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
